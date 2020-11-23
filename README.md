@@ -140,3 +140,4 @@
 [Vim adventures](https://vim-adventures.com/) <br/>
 [Vim genius](http://www.vimgenius.com/) <br/>
 [Vim Valley](https://vimvalley.com/) <br/>
+[Vim-Go](https://github.com/fatih/vim-go)
