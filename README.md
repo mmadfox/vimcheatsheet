@@ -14,6 +14,7 @@
    * [Repeat](#repeat)
    * [Delete](#delete)
 - [Copy and Paste](#copy-and-paste)
+- [Resources](#resources)
 
 ## Working with file
 |Command|Description|
@@ -132,3 +133,10 @@
 ```yy``` | A shortcut for copying the current line
 ```p``` | Paste the copied (or deleted) text after the current cursor position
 ```P``` | Paste the copied (or deleted) text before the current cursor position
+
+## Resources
+[Learn vim For the Last Time: A Tutorial and Primer](https://danielmiessler.com/study/vim/)
+[OpenVim](https://www.openvim.com/)
+[Vim adventures](https://vim-adventures.com/)
+[Vim genius](http://www.vimgenius.com/)
+[Vim Valley](https://vimvalley.com/)
